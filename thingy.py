@@ -1,1 +1,1 @@
-.
+print("git repository ahoy")
